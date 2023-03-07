@@ -1,0 +1,10 @@
+/Users/marouanalouache/Downloads/Bird Shooter/bin/Release/Bird Shooter.exe.config
+/Users/marouanalouache/Downloads/Bird Shooter/bin/Release/Bird Shooter.exe
+/Users/marouanalouache/Downloads/Bird Shooter/bin/Release/Bird Shooter.pdb
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird Shooter.csproj.AssemblyReference.cache
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird_Shooter.MainFrame.resources
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird_Shooter.Properties.Resources.resources
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird Shooter.csproj.GenerateResource.cache
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird Shooter.csproj.CoreCompileInputs.cache
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird Shooter.exe
+/Users/marouanalouache/Downloads/Bird Shooter/obj/Release/Bird Shooter.pdb
